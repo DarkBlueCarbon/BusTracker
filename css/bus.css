@@ -1,0 +1,44 @@
+#map {
+    height: 1000%;
+    /*height: 485px;*/
+    width: 100%;
+
+}
+#info{
+    /*background-color: #9F3A38;*/
+    background-image: url("../img/info_background.jpg");
+    /*background-size: auto 110%;*/
+    height: 1000%;
+    /*height: 485px;*/
+}
+#routes{
+    padding-top: 20px;
+    /*background-color: #9F3A38;*/
+    color: #00B5AD;
+    width: 100%;
+}
+#route41{
+    color: #0ea432;
+    margin-bottom: 10px;
+}
+#route42{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+#route43{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.mylbl{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#top{
+    /*background-color: #;*/
+}
+#link{
+    padding-top: 20px;
+}
